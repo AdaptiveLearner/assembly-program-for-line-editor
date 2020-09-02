@@ -1,9 +1,5 @@
-## Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Setup](#setup)
-
 ## General info
-This project is simple Lorem ipsum dolor generator.
+This project is a line editor in MASM and DOSBox,
+written by Albert Wu.
 
 ![](readme.png)
